@@ -84,21 +84,6 @@
 <br/><b>STORE</b>
 <ul><li>Spring (<a href="https://my-store-f5ac4d.creator-spring.com" rel="nofollow" target="_blank">Dlium Shop</a>)</li></ul>
 
-<style>
-/* Blogger Sitemap Simple Title Only */
-#sitemap3 .judul {font-size:150%; background-color:#008c5f; color:#fff; font-weight:600; text-align:center; margin-bottom:20px; padding:15px;}
-#sitemap3 a {color:#666; text-decoration:none; transition:all .3s ease;}
-#sitemap3 a:hover {color:#000;}
-#sitemap3 ol {margin:0px; padding:0px;}
-#sitemap3 ol li {color:#666; font-weight:400; list-style-type:decimal; margin:0px; padding:10px; line-height:1.5em; -webkit-margin-start:40px !important;}
-</style>
-<div id="sitemap3">Loading....</div>
-<script> //<![CDATA[
-/* Blogger Sitemap Simple Title Only */
-var start=1;var max=150;var sitemap3Arr=new Array();function runSitemap3(){var scpt=document.createElement('script');scpt.src='https://www.dlium.com/feeds/posts/summary?alt=json&callback=sitemap3&start-index='+start+'&max-results='+max;document.body.appendChild(scpt)} function sitemap3(root){var elem=document.getElementById('sitemap3');if(!elem)return;elem.innerHTML='';var feed=root.feed;if(feed.entry.length>0){for(var i=0;i<feed.entry.length;i++){var entry=feed.entry[i];var title=entry.title.$t;for(var j=0;j<entry.link.length;j++){if(entry.link[j].rel=="alternate"){var url=entry.link[j].href;if(url&&url.length>0&&title&&title.length>0){sitemap3Arr.push({'url':url,'judul':title})} break}}} if(feed.entry.length>=max){start+=max;runSitemap3()} else{var print='';for(var x=0;x<sitemap3Arr.length;x++){print+='<li><a href=\"'+sitemap3Arr[x].url+'\" title=\"'+sitemap3Arr[x].judul+'\">'+sitemap3Arr[x].judul+'</a></li>'}
-elem.innerHTML='<div class=\"judul\">Total Post: '+sitemap3Arr.length+'</div><ol>'+print+'</ol>'}}} runSitemap3();
-//]]> </script>
-
 <!---
 Dlium/Dlium is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
