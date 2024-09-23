@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @Dlium
 - 👀 Site: https://www.dlium.com
-- 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on website building
-- 📫 How to reach me Dlium
-- 😄 Pronouns: I dont know
-- ⚡ Fun fact: coffee
+- 🌱 Dlium theDlium
 
 <!---
 Dlium/Dlium is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
