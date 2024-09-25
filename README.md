@@ -74,6 +74,7 @@
 <ul><li>YouTube: <a href="https://youtube.com/@Dlium" target="_blank">Dlium</a></li>
   <li>Facebook: <a href="https://www.facebook.com/Dlium" target="_blank">Dlium</a></li>
   <li>Mastodon: <a href="https://mastodon.social/@Dlium" target="_blank">Dlium</a></li>
+  <li>Threads: <a href="https://www.threads.net/@thedlium" target="_blank">Dlium</a></li>
   <li>X.com: <a href="https://x.com/TheDlium" target="_blank">Dlium</a></li>
   <li>Pinterest: <a href="https://www.pinterest.com/TheDlium" target="_blank">Dlium</a></li>
   <li>Instagram: <a href="https://www.instagram.com/TheDlium" target="_blank">Dlium</a></li>
