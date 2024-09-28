@@ -34,7 +34,9 @@
   <li><a href="https://www.dlium.com/p/1.html">Species Encyclopedia</a>
     <ul><li><a href="https://www.dlium.com/p/2.html">Plantae</a></li>
       <li><a href="https://www.dlium.com/p/3.html">Animalia</a></li>
-      <li><a href="https://www.dlium.com/p/7.html">Fungi</a></li></ul>
+      <li><a href="https://www.dlium.com/p/7.html">Fungi</a></li>
+      <li><a href="https://www.dlium.com/p/55.html">Chromista</a></li>
+      <li><a href="https://www.dlium.com/p/57.html">Protozoa</a></li></ul>
   <li><a href="https://www.dlium.com/p/search.html">About search tools</a>
     <ul><li><a href="https://www.dlium.com/p/research.html">Research papers search</a></li>
       <li><a href="https://www.dlium.com/p/specimen.html">Specimen records search</a></li>
