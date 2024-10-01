@@ -58,14 +58,15 @@
       <li><a href="https://www.dlium.com/p/logos.html">Logos</a></li></ul></ul>
 <br/><b>CHRONOLOGICAL</b>
 <ul><li><a href="https://www.dlium.com/2024/">2024</a>
-  <ul><li><a href="https://www.dlium.com/2024/09">September</a>
-    <li><a href="https://www.dlium.com/2024/08">August</a>
-    <li><a href="https://www.dlium.com/2024/07">July</a>
-    <li><a href="https://www.dlium.com/2024/06">June</a>
-    <li><a href="https://www.dlium.com/2024/05">May</a>
-    <li><a href="https://www.dlium.com/2024/04">April</a>
-    <li><a href="https://www.dlium.com/2024/03">March</a>
-    <li><a href="https://www.dlium.com/2024/02">February</a>
+  <ul><li><a href="https://www.dlium.com/2024/10">October</a></li>
+    <li><a href="https://www.dlium.com/2024/09">September</a></li>
+    <li><a href="https://www.dlium.com/2024/08">August</a></li>
+    <li><a href="https://www.dlium.com/2024/07">July</a></li>
+    <li><a href="https://www.dlium.com/2024/06">June</a></li>
+    <li><a href="https://www.dlium.com/2024/05">May</a></li>
+    <li><a href="https://www.dlium.com/2024/04">April</a></li>
+    <li><a href="https://www.dlium.com/2024/03">March</a></li>
+    <li><a href="https://www.dlium.com/2024/02">February</a></li>
     <li><a href="https://www.dlium.com/2024/01">January</a></li></ul>
   <li><a href="https://www.dlium.com/2023/">2023</a></li>
   <li><a href="https://www.dlium.com/2022/">2022</a></li>
