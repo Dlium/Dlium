@@ -58,7 +58,8 @@
       <li><a href="https://www.dlium.com/p/logos.html">Logos</a></li></ul></ul>
 <br/><b>CHRONOLOGICAL</b>
 <ul><li><a href="https://www.dlium.com/2024/">2024</a>
-  <ul><li><a href="https://www.dlium.com/2024/10">October</a></li>
+  <ul><li><a href="https://www.dlium.com/2024/11">November</a></li>
+    <li><a href="https://www.dlium.com/2024/10">October</a></li>
     <li><a href="https://www.dlium.com/2024/09">September</a></li>
     <li><a href="https://www.dlium.com/2024/08">August</a></li>
     <li><a href="https://www.dlium.com/2024/07">July</a></li>
